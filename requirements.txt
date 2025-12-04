@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+finnhub-python
+httpx
